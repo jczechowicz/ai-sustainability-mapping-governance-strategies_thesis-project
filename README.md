@@ -1,4 +1,4 @@
-# RUG, MA Digital Humanities Thesis Project: Mapping Governance Strategies for AI Sustainability – An Analysis of Regulatory Frameworks
+# Mapping Governance Strategies for AI Sustainability: An Analysis of Regulatory Frameworks
 
 ## Description:
 This is a README file for the repository of the Thesis project “Mapping Governance Strategies for AI Sustainability: An Analysis of Regulatory Frameworks”. This thesis was written to complete the Master's Program in Digital Humanities at the University of Groningen.
